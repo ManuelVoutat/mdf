@@ -4,11 +4,13 @@
  * Use: System.out.println to ouput your result to STDOUT.
  * Use: System.err.println to ouput debugging information to STDERR.
  * ***/
-package com.isograd.exercise;
+package com.isograd.exercise.reservoirDogs;
 
 import java.io.InputStream;
 import java.io.PrintStream;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Random;
+import java.util.Scanner;
 
 public class IsoContest {
 
